@@ -1,0 +1,3 @@
+# Configuration for AWS API Gateway
+api-gateway-config.json
+trust-policy.json
